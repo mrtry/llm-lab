@@ -1,0 +1,3 @@
+# clunerules
+/.clinerules/working-memory/*.md
+!/.clinerules/**/.gitkeep
