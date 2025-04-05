@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "sbenp.prettier-vscode",
+    "github.copilot",
+    "github.copilot-chat",
+    "bpruitt-goddard.mermaid-markdown-syntax-highlighting",
+    "bierner.markdown-mermaid",
+    "rooveterinaryinc.roo-cline",
+    "saoudrizwan.claude-dev",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "k--kato.intellij-idea-keybindings"
+  ]
+}
