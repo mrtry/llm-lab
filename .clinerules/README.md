@@ -124,7 +124,7 @@ flowchart TD
 
 ### Update Store Memory
 
-コードだけからは明らかでない重要なパターン、設定、プロジェクトインテリジェンスを捉え、重要な洞察を発見し、 `.clinerules/store-memory/*.md` に文書化する (`.clinerules/store-memory/principle/*.md` はupdateの対象外)
+コードだけからは明らかでない重要なパターン、設定、プロジェクトインテリジェンスを捉え、重要な洞察を発見し、 `.clinerules/store-memory/*.md` に文書化する (`.clinerules/store-memory/*.md` はupdateの対象外)
 新しく発見した洞察のカテゴリに該当するものがあれば既存のmarkdownに追記し、該当するカテゴリがない場合は `.clinerules/store-memory/intelligence.md` に追記する
 
 ```mermaid
